@@ -1,0 +1,21 @@
+Dashboard
+
+-Permissions
+-Roles
+-Admins
+-Country
+-City
+-Advertisements
+-Insurances
+-Spacialties
+-Supspacialties
+-Package
+Blog
+-Categories
+-Post
+-Setting
+-Languages
+-Currencies
+-Hospital
+-Doctor
+-Medical Technology
